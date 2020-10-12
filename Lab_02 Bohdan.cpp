@@ -13,7 +13,7 @@ int main()
 	double z1; // Результат
 	double z2; // Результат
 	// Зміна 1
-
+	// Зміна 2 для нової гілки
 	cout << "a ="; cin >> a;
 	z1 = cos(a) + cos(2 * a) + cos(6 * a) + cos(7 * a);
 	z2 = 4 * cos(a / 2) * cos((5./ 2) * a) * cos(4 * a);
