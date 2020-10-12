@@ -12,6 +12,7 @@ int main()
 	double a; // Параметр
 	double z1; // Результат
 	double z2; // Результат
+	// Зміна 1
 
 	cout << "a ="; cin >> a;
 	z1 = cos(a) + cos(2 * a) + cos(6 * a) + cos(7 * a);
