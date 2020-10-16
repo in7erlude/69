@@ -19,7 +19,8 @@ int main()
 	cout << endl;
 	cout << "z1 = " << z1 << endl;
 	cout << "z2 = " << z2 << endl;
-
+// change 123
+// change 321
 	
 	cin.get();
 	return 0;
